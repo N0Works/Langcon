@@ -1,0 +1,11 @@
+{
+  "common.appName": "Langcon",
+  "common.loadingTitle": "Loading Langcon status...",
+  "common.loadingSubtitle": "Connecting to the Windows backend.",
+  "common.noActiveWindow": "No active window. Try switching apps.",
+  "common.pidLabel": "PID {{pid}}",
+  "common.updateCheckFailedBadge": "Version check failed",
+  "common.updateCheckingBadge": "Checking version…",
+  "common.latestVersionBadge": "Up to date",
+  "common.updateAvailableBadge": "Update v{{version}}"
+}

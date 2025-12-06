@@ -1,0 +1,23 @@
+{
+  "settings.title": "자동 전환 설정",
+  "settings.startWithWindows.title": "윈도우 시작 시 자동 실행",
+  "settings.startWithWindows.description": "시작 프로그램에 Langcon을 등록합니다.",
+  "settings.autoToEn.title": "영문 입력 자동 전환",
+  "settings.autoToEn.description": "새 포커스를 감지하면 IME를 영문으로 전환합니다.",
+  "settings.mouseMove.title": "마우스 이동 이벤트",
+  "settings.mouseMove.description": "커서 이동 기반 포커스 감지를 활성화합니다.",
+  "settings.detectInterval.title": "감지 간격",
+  "settings.detectInterval.description": "{{seconds}}초 단위로 프로세스 전환을 체크합니다.",
+  "settings.detectInterval.badge": "{{seconds}} 초",
+  "settings.mouseSensitivity.title": "마우스 민감도",
+  "settings.mouseSensitivity.description": "{{pixels}}픽셀 이상 마우스 이동 시 자동 전환 일시 정지를 해제합니다.",
+  "settings.mouseSensitivity.badge": "{{pixels}} px",
+  "settings.detectInterval.reset": "{{seconds}}초 기본값으로 되돌리기",
+  "settings.mouseSensitivity.reset": "{{pixels}}px 기본값으로 되돌리기",
+  "settings.language.title": "언어",
+  "settings.language.description": "표시 언어를 선택하세요.",
+  "settings.language.options.en": "영어",
+  "settings.language.options.ko": "한국어",
+  "settings.language.options.ja": "일본어",
+  "settings.language.options.zh": "중국어"
+}

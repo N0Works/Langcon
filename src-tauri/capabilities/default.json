@@ -1,0 +1,17 @@
+{
+  "$schema": "../gen/schemas/desktop-schema.json",
+  "identifier": "default",
+  "description": "Capability for the main window",
+  "windows": ["main"],
+  "permissions": [
+    "core:default",
+    "opener:default",
+    "notification:default"
+  ],
+  "remote": {
+    "urls": [
+      "https://slp.samylabs.app/*",
+      "https://github.com/0sami6/langcon*"
+    ]
+  }
+}

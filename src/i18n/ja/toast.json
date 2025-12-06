@@ -1,0 +1,16 @@
+{
+  "toast.process.added": "{{name}} を追加しました。",
+  "toast.process.removed": "{{name}} を削除しました。",
+  "toast.process.refreshed": "プロセス一覧を更新しました。",
+  "toast.manual.enabled": "手動切り替えを維持します。",
+  "toast.manual.disabled": "自動切り替えを再開します。",
+  "toast.update.available": "新しいバージョン (v{{version}}) が利用可能です。",
+  "toast.startup.enabled": "Windows起動時の自動実行を有効にしました。",
+  "toast.startup.disabled": "Windows起動時の自動実行を無効にしました。",
+  "toast.autoToEn.enabled": "英語入力への自動切り替えを有効にしました。",
+  "toast.autoToEn.disabled": "英語入力への自動切り替えを無効にしました。",
+  "toast.mouseMove.enabled": "マウス移動イベントを有効にしました。",
+  "toast.mouseMove.disabled": "マウス移動イベントを無効にしました。",
+  "toast.status.mouseMove": "{{name}}: マウス移動で英語入力に切り替えました。",
+  "toast.status.autoSwitch": "{{name}}: 英語入力に切り替えました。"
+}

@@ -1,0 +1,10 @@
+{
+  "focus.sectionTitle": "Focused process",
+  "focus.manualToggle": "Pause auto switching",
+  "focus.manualBadge": "Temporary manual switch",
+  "focus.autoBadge": "Auto switching active",
+  "focus.status.waiting": "Idle",
+  "focus.status.korean": "Korean input",
+  "focus.status.english": "English input",
+  "focus.status.unknown": "Unknown"
+}

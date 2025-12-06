@@ -1,0 +1,11 @@
+{
+  "common.appName": "Langcon",
+  "common.loadingTitle": "Langconの状態を読み込み中...",
+  "common.loadingSubtitle": "Windowsのバックエンドに接続しています。",
+  "common.noActiveWindow": "アクティブなウィンドウがありません。アプリを切り替えてください。",
+  "common.pidLabel": "PID {{pid}}",
+  "common.updateCheckFailedBadge": "バージョン確認失敗",
+  "common.updateCheckingBadge": "バージョン確認中…",
+  "common.latestVersionBadge": "最新バージョン",
+  "common.updateAvailableBadge": "アップデート v{{version}}"
+}

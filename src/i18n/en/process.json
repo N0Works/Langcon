@@ -1,0 +1,10 @@
+{
+  "process.title": "Processes",
+  "process.settings.title": "List options",
+  "process.settings.prioritizeSelected": "Prioritize selected items",
+  "process.settings.prioritizeDescription": "Show selected processes at the top of the list.",
+  "process.searchPlaceholder": "Search program name or window title",
+  "process.action.remove": "Remove",
+  "process.action.add": "Add",
+  "process.empty": "No results found."
+}

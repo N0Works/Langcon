@@ -1,0 +1,16 @@
+{
+  "toast.process.added": "{{name}} 을(를) 추가했습니다.",
+  "toast.process.removed": "{{name}} 을(를) 삭제했습니다.",
+  "toast.process.refreshed": "프로세스 목록을 새로고침했습니다.",
+  "toast.manual.enabled": "수동 전환을 유지합니다.",
+  "toast.manual.disabled": "자동 전환을 재개합니다.",
+  "toast.update.available": "새 버전(v{{version}})을 사용할 수 있습니다.",
+  "toast.startup.enabled": "윈도우 시작 시 자동 실행을 사용합니다.",
+  "toast.startup.disabled": "윈도우 시작 시 자동 실행을 해제합니다.",
+  "toast.autoToEn.enabled": "영문 입력 자동 전환을 사용합니다.",
+  "toast.autoToEn.disabled": "영문 입력 자동 전환을 해제합니다.",
+  "toast.mouseMove.enabled": "마우스 이동 이벤트를 사용합니다.",
+  "toast.mouseMove.disabled": "마우스 이동 이벤트를 해제합니다.",
+  "toast.status.mouseMove": "{{name}}: 마우스 이동으로 영문 전환",
+  "toast.status.autoSwitch": "{{name}}: 영문 입력으로 전환했습니다."
+}

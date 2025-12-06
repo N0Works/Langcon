@@ -1,0 +1,16 @@
+{
+  "toast.process.added": "已添加 {{name}}。",
+  "toast.process.removed": "已删除 {{name}}。",
+  "toast.process.refreshed": "已刷新进程列表。",
+  "toast.manual.enabled": "保持手动切换。",
+  "toast.manual.disabled": "已恢复自动切换。",
+  "toast.update.available": "新版本 (v{{version}}) 可用。",
+  "toast.startup.enabled": "已开启随 Windows 启动。",
+  "toast.startup.disabled": "已关闭随 Windows 启动。",
+  "toast.autoToEn.enabled": "已开启自动切换为英文输入。",
+  "toast.autoToEn.disabled": "已关闭自动切换为英文输入。",
+  "toast.mouseMove.enabled": "已开启鼠标移动事件。",
+  "toast.mouseMove.disabled": "已关闭鼠标移动事件。",
+  "toast.status.mouseMove": "{{name}}：因鼠标移动已切换为英文输入。",
+  "toast.status.autoSwitch": "{{name}}：已切换为英文输入。"
+}

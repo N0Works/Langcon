@@ -1,0 +1,21 @@
+{
+  "settings.title": "自动切换设置",
+  "settings.startWithWindows.title": "随 Windows 启动运行",
+  "settings.startWithWindows.description": "将 Langcon 添加到启动程序。",
+  "settings.autoToEn.title": "自动切换为英文输入",
+  "settings.autoToEn.description": "检测到新焦点时将 IME 切换为英文。",
+  "settings.mouseMove.title": "鼠标移动事件",
+  "settings.mouseMove.description": "开启基于光标移动的焦点检测。",
+  "settings.detectInterval.title": "检测间隔",
+  "settings.detectInterval.description": "每隔 {{seconds}} 秒检查进程切换。",
+  "settings.detectInterval.badge": "{{seconds}} 秒",
+  "settings.mouseSensitivity.title": "鼠标灵敏度",
+  "settings.mouseSensitivity.description": "鼠标移动超过 {{pixels}} 像素后恢复自动切换。",
+  "settings.mouseSensitivity.badge": "{{pixels}} px",
+  "settings.language.title": "语言",
+  "settings.language.description": "选择显示语言。",
+  "settings.language.options.en": "英语",
+  "settings.language.options.ko": "韩语",
+  "settings.language.options.ja": "日语",
+  "settings.language.options.zh": "中文"
+}

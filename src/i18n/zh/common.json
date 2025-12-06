@@ -1,0 +1,11 @@
+{
+  "common.appName": "Langcon",
+  "common.loadingTitle": "正在加载 Langcon 状态...",
+  "common.loadingSubtitle": "正在连接 Windows 后端。",
+  "common.noActiveWindow": "没有活动窗口。请尝试切换应用。",
+  "common.pidLabel": "PID {{pid}}",
+  "common.updateCheckFailedBadge": "版本检查失败",
+  "common.updateCheckingBadge": "正在检查版本…",
+  "common.latestVersionBadge": "已是最新",
+  "common.updateAvailableBadge": "可更新 v{{version}}"
+}

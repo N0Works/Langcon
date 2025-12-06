@@ -1,0 +1,10 @@
+{
+  "focus.sectionTitle": "当前聚焦的进程",
+  "focus.manualToggle": "暂停自动切换",
+  "focus.manualBadge": "暂时手动切换",
+  "focus.autoBadge": "自动切换开启",
+  "focus.status.waiting": "等待中",
+  "focus.status.korean": "韩文输入",
+  "focus.status.english": "英文输入",
+  "focus.status.unknown": "未知"
+}

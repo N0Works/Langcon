@@ -1,0 +1,10 @@
+{
+  "process.title": "プロセス",
+  "process.settings.title": "リストオプション",
+  "process.settings.prioritizeSelected": "選択項目を優先",
+  "process.settings.prioritizeDescription": "選択したプロセスをリスト上部に表示します。",
+  "process.searchPlaceholder": "プログラム名またはウィンドウタイトルを検索",
+  "process.action.remove": "解除",
+  "process.action.add": "追加",
+  "process.empty": "検索結果がありません。"
+}

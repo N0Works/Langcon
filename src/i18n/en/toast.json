@@ -1,0 +1,16 @@
+{
+  "toast.process.added": "Added {{name}}.",
+  "toast.process.removed": "Removed {{name}}.",
+  "toast.process.refreshed": "Refreshed process list.",
+  "toast.manual.enabled": "Manual override stays on.",
+  "toast.manual.disabled": "Resumed automatic switching.",
+  "toast.update.available": "New version available (v{{version}}).",
+  "toast.startup.enabled": "Launch on startup enabled.",
+  "toast.startup.disabled": "Launch on startup disabled.",
+  "toast.autoToEn.enabled": "Auto switch to English enabled.",
+  "toast.autoToEn.disabled": "Auto switch to English disabled.",
+  "toast.mouseMove.enabled": "Mouse move events enabled.",
+  "toast.mouseMove.disabled": "Mouse move events disabled.",
+  "toast.status.mouseMove": "{{name}}: switched to English (mouse move).",
+  "toast.status.autoSwitch": "{{name}}: switched to English input."
+}

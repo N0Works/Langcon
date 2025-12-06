@@ -1,0 +1,21 @@
+{
+  "settings.title": "自動切り替え設定",
+  "settings.startWithWindows.title": "Windows起動時に自動実行",
+  "settings.startWithWindows.description": "スタートアップに Langcon を登録します。",
+  "settings.autoToEn.title": "英語入力に自動切り替え",
+  "settings.autoToEn.description": "新しいフォーカスを検出したら IME を英語に切り替えます。",
+  "settings.mouseMove.title": "マウス移動イベント",
+  "settings.mouseMove.description": "カーソル移動ベースのフォーカス検出を有効にします。",
+  "settings.detectInterval.title": "検出間隔",
+  "settings.detectInterval.description": "{{seconds}}秒ごとにプロセス切り替えをチェックします。",
+  "settings.detectInterval.badge": "{{seconds}} 秒",
+  "settings.mouseSensitivity.title": "マウス感度",
+  "settings.mouseSensitivity.description": "{{pixels}}ピクセル以上移動すると自動切り替えの一時停止を解除します。",
+  "settings.mouseSensitivity.badge": "{{pixels}} px",
+  "settings.language.title": "言語",
+  "settings.language.description": "表示言語を選択してください。",
+  "settings.language.options.en": "英語",
+  "settings.language.options.ko": "韓国語",
+  "settings.language.options.ja": "日本語",
+  "settings.language.options.zh": "中国語"
+}

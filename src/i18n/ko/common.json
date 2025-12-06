@@ -1,0 +1,11 @@
+{
+  "common.appName": "Langcon",
+  "common.loadingTitle": "Langcon 상태를 불러오는 중...",
+  "common.loadingSubtitle": "Windows에서 백엔드와 연결하는 중입니다.",
+  "common.noActiveWindow": "활성 창이 없습니다. 앱을 전환해 보세요.",
+  "common.pidLabel": "PID {{pid}}",
+  "common.updateCheckFailedBadge": "버전 확인 실패",
+  "common.updateCheckingBadge": "버전 확인 중…",
+  "common.latestVersionBadge": "최신 버전",
+  "common.updateAvailableBadge": "업데이트 v{{version}}"
+}

@@ -1,0 +1,10 @@
+{
+  "focus.sectionTitle": "フォーカス中のプロセス",
+  "focus.manualToggle": "自動切り替えを一時停止",
+  "focus.manualBadge": "一時的に手動切替",
+  "focus.autoBadge": "自動切り替え中",
+  "focus.status.waiting": "待機中",
+  "focus.status.korean": "韓国語入力",
+  "focus.status.english": "英語入力",
+  "focus.status.unknown": "不明"
+}

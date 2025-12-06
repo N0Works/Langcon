@@ -1,0 +1,10 @@
+{
+  "process.title": "프로세스",
+  "process.settings.title": "목록 옵션",
+  "process.settings.prioritizeSelected": "선택 항목 우선 정렬",
+  "process.settings.prioritizeDescription": "선택된 프로세스를 목록 상단에 표시합니다.",
+  "process.searchPlaceholder": "프로그램 이름이나 창 제목 검색",
+  "process.action.remove": "해제",
+  "process.action.add": "추가",
+  "process.empty": "검색 결과가 없습니다."
+}

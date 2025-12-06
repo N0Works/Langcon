@@ -1,0 +1,23 @@
+{
+  "settings.title": "Auto-switch settings",
+  "settings.startWithWindows.title": "Launch on Windows startup",
+  "settings.startWithWindows.description": "Add Langcon to startup programs.",
+  "settings.autoToEn.title": "Auto switch to English input",
+  "settings.autoToEn.description": "Switch IME to English when new focus is detected.",
+  "settings.mouseMove.title": "Mouse move events",
+  "settings.mouseMove.description": "Enable focus detection based on cursor movement.",
+  "settings.detectInterval.title": "Detection interval",
+  "settings.detectInterval.description": "Check process switching every {{seconds}} seconds.",
+  "settings.detectInterval.badge": "{{seconds}} sec",
+  "settings.mouseSensitivity.title": "Mouse sensitivity",
+  "settings.mouseSensitivity.description": "Resume auto switch after moving {{pixels}} pixels or more.",
+  "settings.mouseSensitivity.badge": "{{pixels}} px",
+  "settings.detectInterval.reset": "Reset to {{seconds}} sec default",
+  "settings.mouseSensitivity.reset": "Reset to {{pixels}} px default",
+  "settings.language.title": "Language",
+  "settings.language.description": "Choose your display language.",
+  "settings.language.options.en": "English",
+  "settings.language.options.ko": "Korean",
+  "settings.language.options.ja": "Japanese",
+  "settings.language.options.zh": "Chinese"
+}

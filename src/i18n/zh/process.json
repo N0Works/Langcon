@@ -1,0 +1,10 @@
+{
+  "process.title": "进程",
+  "process.settings.title": "列表选项",
+  "process.settings.prioritizeSelected": "优先显示已选择",
+  "process.settings.prioritizeDescription": "将已选择的进程显示在列表顶部。",
+  "process.searchPlaceholder": "按程序名或窗口标题搜索",
+  "process.action.remove": "取消",
+  "process.action.add": "添加",
+  "process.empty": "没有搜索结果。"
+}
