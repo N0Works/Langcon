@@ -1,7 +1,52 @@
-# Tauri + React + Typescript
+# Langcon
 
-This template should help get you started developing with Tauri, React and Typescript in Vite.
+Langcon은 영어 단축키만 인식하는 프로그램을 사용할 때, 해당 프로그램이 포커스되면 입력기를 자동으로 영어(EN)로 전환해 주는 Windows 전용 Tauri 애플리케이션입니다. 
+한/영 키로 자동 전환을 일시 중지해 한글을 입력할 수 있고, 마우스를 움직이면 자동 전환을 다시 시작해 손쉽게 영문 모드로 복귀합니다.
 
-## Recommended IDE Setup
+## 중요
+- 이전 버전 IME에서 정상 동작합니다. 미리 변경해 주세요.
 
-- [VS Code](https://code.visualstudio.com/) + [Tauri](https://marketplace.visualstudio.com/items?itemName=tauri-apps.tauri-vscode) + [rust-analyzer](https://marketplace.visualstudio.com/items?itemName=rust-lang.rust-analyzer)
+## 주요 기능
+- 등록한 프로그램이 포커스되면 IME를 자동으로 영어로 전환
+- 한/영 키로 자동 전환 일시 중지 → 한글 입력 → 마우스 이동 시 자동 전환 재시작
+- 감지 주기와 마우스 이동 감도 설정, 자동 전환 사용/중지 토글
+- 실행 중인 프로세스 검색 및 선택 기반 감지 우선순위
+- Windows 시작 프로그램 등록 옵션, 시스템 트레이 상주, 라이트/다크 테마 및 다국어(ko/en) 지원
+- 최신 버전 확인 및 업데이트 알림
+
+## 설치 및 실행
+1. 의존성 설치
+   ```bash
+   npm install
+   ```
+2. 데스크톱 앱 개발 모드 실행
+   ```bash
+   npm run tauri dev
+   ```
+3. 웹 프리뷰(브라우저)만 확인하고 싶다면
+   ```bash
+   npm run dev
+   ```
+4. 프로덕션 빌드
+   ```bash
+   npm run tauri build
+   ```
+
+## 사용 방법
+- 앱을 실행하면 트레이에 상주하며, 설정 창에서 영어 전환을 적용할 프로그램을 목록에서 선택하거나 직접 추가합니다.
+- `자동 영문 전환`을 켜면 대상 프로그램 포커스 시 IME가 영어로 변경됩니다.
+- 한글이 필요할 때는 한/영 키를 눌러 자동 전환을 잠시 멈추고 입력합니다. 이후 마우스를 움직이면 자동 전환이 다시 활성화됩니다.
+- 필요에 따라 감지 주기(초 단위), 시작 프로그램 등록, 언어/테마 등을 설정하고 저장합니다.
+- 트레이 메뉴를 통해 창 열기, 창 위치 초기화, 종료를 빠르게 수행할 수 있습니다.
+
+## 프로젝트 구조
+- `src/`: React 19 + TypeScript 프런트엔드, i18n 리소스 및 UI 컴포넌트
+- `src-tauri/`: Tauri 백엔드(Rust). IME 상태 감지/전환, 프로세스 모니터링, 시작 프로그램 설정을 담당
+- `public/`: 정적 파일
+
+## TODO
+- [ ] 한/영 키 외 다른 단축키도 등록해 다국어 입력 전환을 유연하게 지원하기
+- [ ] UI 전반 정돈 및 개선 작업 진행하기
+
+## 라이선스
+프로젝트 루트의 라이선스 파일을 참고하세요.

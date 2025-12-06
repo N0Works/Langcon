@@ -60,4 +60,4 @@ export const useI18n = () => {
   return { t, language, languageLabelKey: getLanguageLabelKey(language ?? FALLBACK_LANGUAGE) };
 };
 
-export const languageOptions: SupportedLanguage[] = [...SUPPORTED_LANGUAGES];
+export const languageOptions: SupportedLanguage[] = ["en", "ko"];
