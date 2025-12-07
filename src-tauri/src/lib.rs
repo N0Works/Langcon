@@ -310,7 +310,7 @@ fn get_app_version() -> String {
 
 #[tauri::command]
 async fn get_latest_version() -> Result<String, String> {
-    let url = "https://raw.githubusercontent.com/0sami6/langcon/main/src-tauri/Cargo.toml";
+    let url = "https://raw.githubusercontent.com/N0Works/Langcon/main/src-tauri/Cargo.toml";
     let resp = reqwest::Client::new()
         .get(url)
         .send()

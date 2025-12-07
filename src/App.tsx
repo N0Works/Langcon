@@ -449,7 +449,7 @@ function App() {
                     className="size-9 border-amber-300 bg-amber-50 text-amber-700 shadow-xs transition hover:bg-amber-100 hover:text-amber-800 animate-[pulse_1.6s_ease-in-out_infinite]"
                     onClick={async () => {
                       try {
-                        await openUrl("https://github.com/0sami6/langcon");
+                        await openUrl("https://github.com/N0Works/Langcon");
                       } catch (err) {
                         handleError(err);
                       }
